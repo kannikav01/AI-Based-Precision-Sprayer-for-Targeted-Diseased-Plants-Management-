@@ -1,7 +1,6 @@
 # AI-Based Precision Sprayer for Targeted Diseased Plants Management
 
 [![Publication](https://img.shields.io/badge/IJIRE-Vol.%207%2C%20Issue%203%20(2026)-blue)](./IJIRE.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.59256%2Fijire.20260703030-green)](https://www.doi.org/10.59256/ijire.20260703030)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 > **Academic Research & Engineering Project Repository**  
